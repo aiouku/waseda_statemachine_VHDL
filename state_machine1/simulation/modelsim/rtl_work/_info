@@ -1,0 +1,374 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/simulation/modelsim
+Emyand2
+Z1 w1778820006
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myand2.vhd
+Z5 FC:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myand2.vhd
+l0
+L5
+V:;@fT_lbhYbhiEhAhOBko3
+!s100 PW5nYz0nN5d94U8el`R?50
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1779283201
+!i10b 1
+Z8 !s108 1779283201.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myand2.vhd|
+Z10 !s107 C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myand2.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Abehave
+R2
+R3
+DEx4 work 6 myand2 0 22 :;@fT_lbhYbhiEhAhOBko3
+l11
+L10
+VIG]YF^2bd[OW6jXbHXa3f0
+!s100 S?^fCoi`9z;[d1<JOgabj2
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emydiff
+Z13 w1778823292
+R2
+R3
+R0
+Z14 8C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mydiff.vhd
+Z15 FC:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mydiff.vhd
+l0
+L5
+VL_igJ[KClLFbU87lkR^eD1
+!s100 Hle^Ud;n6@K^LRnL>VYoI0
+R6
+31
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-93|-work|work|C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mydiff.vhd|
+Z17 !s107 C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mydiff.vhd|
+!i113 1
+R11
+R12
+Abehave
+R2
+R3
+DEx4 work 6 mydiff 0 22 L_igJ[KClLFbU87lkR^eD1
+l11
+L10
+V02_UjkY^k8jnz?=@]i6eA0
+!s100 Hf;9:NCmMz_gHAkZEZ[LF1
+R6
+31
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Emynot
+Z18 w1778822414
+R2
+R3
+R0
+Z19 8C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mynot.vhd
+Z20 FC:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mynot.vhd
+l0
+L5
+VUC`=1V32b_1gbaggjANX[3
+!s100 85P<e7:lk7MEnKMOIPBmN0
+R6
+31
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-93|-work|work|C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mynot.vhd|
+Z22 !s107 C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mynot.vhd|
+!i113 1
+R11
+R12
+Abehave
+R2
+R3
+DEx4 work 5 mynot 0 22 UC`=1V32b_1gbaggjANX[3
+l11
+L10
+V9UWEgAjjfJ41UgHYzdSPg0
+!s100 o7a?afL3`j99eFD:5dIHl1
+R6
+31
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Emyor2
+Z23 w1778822098
+R2
+R3
+R0
+Z24 8C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myor2.vhd
+Z25 FC:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myor2.vhd
+l0
+L5
+VdU61>:KSE01l>]Z:c6Bcf0
+!s100 gPKlaXFO35TO]0O=I_l4<2
+R6
+31
+R7
+!i10b 1
+R8
+Z26 !s90 -reportprogress|300|-93|-work|work|C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myor2.vhd|
+Z27 !s107 C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myor2.vhd|
+!i113 1
+R11
+R12
+Abehave
+R2
+R3
+DEx4 work 5 myor2 0 22 dU61>:KSE01l>]Z:c6Bcf0
+l11
+L10
+VWJ:FfiPf9DFkjgYEE@84:1
+!s100 2ObE62jc]O0o=M`WL1e1h2
+R6
+31
+R7
+!i10b 1
+R8
+R26
+R27
+!i113 1
+R11
+R12
+Estate_machine1
+Z28 w1778824812
+R2
+R3
+R0
+Z29 8C:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine1.vhd
+Z30 FC:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine1.vhd
+l0
+L5
+VUb4[BUOT>7z7LA>[d9Tb93
+!s100 `:76DMYn8eb^Y6o:f^UGR2
+R6
+31
+R7
+!i10b 1
+R8
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine1.vhd|
+Z32 !s107 C:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine1.vhd|
+!i113 1
+R11
+R12
+Astructure
+R2
+R3
+Z33 DEx4 work 14 state_machine1 0 22 Ub4[BUOT>7z7LA>[d9Tb93
+l34
+L10
+VR0P]`@L_YK>A86=J6=P]j3
+!s100 7`aS6B7Xn?VOGU<M]lAS02
+R6
+31
+R7
+!i10b 1
+R8
+R31
+R32
+!i113 1
+R11
+R12
+Estate_machine1_test
+Z34 w1778824772
+R2
+R3
+R0
+Z35 8C:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine1_test.vhd
+Z36 FC:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine1_test.vhd
+l0
+L5
+V]dVhSn]W2CP9zjGT1gS5F3
+!s100 YT3PTeK>BE0c]453TgYj>2
+R6
+31
+Z37 !s110 1779283202
+!i10b 1
+Z38 !s108 1779283202.000000
+Z39 !s90 -reportprogress|300|-93|-work|work|C:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine1_test.vhd|
+Z40 !s107 C:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine1_test.vhd|
+!i113 1
+R11
+R12
+Astate_machine1_test_bench
+R2
+R3
+Z41 DEx4 work 19 state_machine1_test 0 22 ]dVhSn]W2CP9zjGT1gS5F3
+l17
+L8
+V3I@cC3fP;00ek`FF=XO@B0
+!s100 f;m2_c<3NNLehilFL2RQC3
+R6
+31
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R11
+R12
+Cstate_machine1_test_conf
+estate_machine1_test
+astate_machine1_test_bench
+R33
+DAx4 work 19 state_machine1_test 25 state_machine1_test_bench 22 3I@cC3fP;00ek`FF=XO@B0
+R2
+R3
+R41
+R34
+R0
+R35
+R36
+l0
+L51
+Vh>lRMD8j2QK:g>7]5b=?61
+!s100 ?]e<8V?lJ^Rd<>3Eage_g1
+R6
+31
+R37
+!i10b 0
+R38
+R39
+R40
+!i113 1
+R11
+R12
+Estate_machine2
+Z42 w1778826976
+R2
+R3
+R0
+Z43 8C:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine2.vhd
+Z44 FC:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine2.vhd
+l0
+L5
+V>C@?Ghim9dAgTJSo<Hl7C3
+!s100 d28BooafRSCV9jA:l2iWX3
+R6
+31
+R37
+!i10b 1
+R38
+Z45 !s90 -reportprogress|300|-93|-work|work|C:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine2.vhd|
+Z46 !s107 C:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine2.vhd|
+!i113 1
+R11
+R12
+Abehave
+R2
+R3
+Z47 DEx4 work 14 state_machine2 0 22 >C@?Ghim9dAgTJSo<Hl7C3
+l15
+L10
+VdKlhQKXMhIz_WT4Xe`Z281
+!s100 D`CPQQCzDVbA4e[ZU<?`W3
+R6
+31
+R37
+!i10b 1
+R38
+R45
+R46
+!i113 1
+R11
+R12
+Estate_machine2_test
+Z48 w1778826526
+R2
+R3
+R0
+Z49 8C:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine2_test.vhd
+Z50 FC:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine2_test.vhd
+l0
+L5
+VJi[ZdbV?FA3X6FUdfik1T3
+!s100 m8;SfEgYoZL:m[[WBV[@10
+R6
+31
+R37
+!i10b 1
+R38
+Z51 !s90 -reportprogress|300|-93|-work|work|C:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine2_test.vhd|
+Z52 !s107 C:/Users/jkrta/OneDrive/Documents/HardWare/state_machine1/state_machine2_test.vhd|
+!i113 1
+R11
+R12
+Astate_machine2_test_bench
+R2
+R3
+Z53 DEx4 work 19 state_machine2_test 0 22 Ji[ZdbV?FA3X6FUdfik1T3
+l17
+L8
+V[WQn;I@2dO]U`9FP[6]KU2
+!s100 4J^2B`9im^aP1E2]PM@]22
+R6
+31
+R37
+!i10b 1
+R38
+R51
+R52
+!i113 1
+R11
+R12
+Cstate_machine2_test_conf
+estate_machine2_test
+astate_machine2_test_bench
+R47
+DAx4 work 19 state_machine2_test 25 state_machine2_test_bench 22 [WQn;I@2dO]U`9FP[6]KU2
+R2
+R3
+R53
+R48
+R0
+R49
+R50
+l0
+L51
+V3NT>TG4bgoH_N0hfU6ShN1
+!s100 od^fV7?J7a@<cQfhT<bBB0
+R6
+31
+R37
+!i10b 0
+R38
+R51
+R52
+!i113 1
+R11
+R12

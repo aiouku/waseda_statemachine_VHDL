@@ -1,0 +1,135 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do myand2_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mynot_test.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:46:35 on May 20,2026
+# vcom -reportprogress 300 -93 -work work C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mynot_test.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mynot_test
+# -- Compiling architecture mynot_test_bench of mynot_test
+# -- Compiling configuration mynot_test_conf
+# -- Loading entity mynot_test
+# -- Loading architecture mynot_test_bench of mynot_test
+# End time: 21:46:35 on May 20,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mynot.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:46:36 on May 20,2026
+# vcom -reportprogress 300 -93 -work work C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mynot.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mynot
+# -- Compiling architecture behave of mynot
+# End time: 21:46:36 on May 20,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myand2.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:46:36 on May 20,2026
+# vcom -reportprogress 300 -93 -work work C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myand2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity myand2
+# -- Compiling architecture behave of myand2
+# End time: 21:46:36 on May 20,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myand2_test.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:46:36 on May 20,2026
+# vcom -reportprogress 300 -93 -work work C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myand2_test.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity myand2_test
+# -- Compiling architecture myand2_test_bench of myand2_test
+# -- Compiling configuration myand2_test_conf
+# -- Loading entity myand2_test
+# -- Loading architecture myand2_test_bench of myand2_test
+# -- Loading entity myand2
+# End time: 21:46:36 on May 20,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myor2.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:46:36 on May 20,2026
+# vcom -reportprogress 300 -93 -work work C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myor2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity myor2
+# -- Compiling architecture behave of myor2
+# End time: 21:46:36 on May 20,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myor2_test.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:46:36 on May 20,2026
+# vcom -reportprogress 300 -93 -work work C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/myor2_test.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity myor2_test
+# -- Compiling architecture myor2_test_bench of myor2_test
+# -- Compiling configuration myor2_test_conf
+# -- Loading entity myor2_test
+# -- Loading architecture myor2_test_bench of myor2_test
+# -- Loading entity myor2
+# End time: 21:46:36 on May 20,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mydiff.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:46:36 on May 20,2026
+# vcom -reportprogress 300 -93 -work work C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mydiff.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mydiff
+# -- Compiling architecture behave of mydiff
+# End time: 21:46:36 on May 20,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mydiff_test.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:46:36 on May 20,2026
+# vcom -reportprogress 300 -93 -work work C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mydiff_test.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mydiff_test
+# -- Compiling architecture mydiff_test_bench of mydiff_test
+# ** Warning: C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mydiff_test.vhd(32): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mydiff_test.vhd(35): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mydiff_test.vhd(38): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: C:/Users/jkrta/OneDrive/Documents/HardWare/tanaka/mydiff_test.vhd(41): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# -- Compiling configuration mydiff_test_conf
+# -- Loading entity mydiff_test
+# -- Loading architecture mydiff_test_bench of mydiff_test
+# -- Loading entity mydiff
+# End time: 21:46:36 on May 20,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 4
+# 
+vsim -gui -l msim_transcript rtl_work.myor2_test_conf -t ns
+# vsim -gui -l msim_transcript rtl_work.myor2_test_conf -t ns 
+# Start time: 21:46:49 on May 20,2026
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading rtl_work.myor2_test_conf
+# Loading rtl_work.myor2_test(myor2_test_bench)
+# Loading rtl_work.myor2(behave)
+add wave -position end  sim:/myor2_test/i0
+add wave -position end  sim:/myor2_test/i1
+add wave -position end  sim:/myor2_test/o
+run
+# End time: 21:47:30 on May 20,2026, Elapsed time: 0:00:41
+# Errors: 0, Warnings: 0

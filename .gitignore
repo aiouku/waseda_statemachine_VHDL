@@ -1,0 +1,15 @@
+# Quartus
+db/
+incremental_db/
+output_files/
+
+*.qws
+*.bak
+*.rpt
+*.summary
+*.smsg
+*.jdi
+*.pin
+*.sof
+*.pof
+*.flock
