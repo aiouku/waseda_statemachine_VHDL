@@ -1,6 +1,6 @@
 # 2-bit Input / 2-bit Output Mealy State Machine (VHDL)
 
-問題番号72のステートマシン回路をVHDLで実装したもの。動作記述と構造記述の両方で同等の回路を記述している。Quartus Prime / ModelSim でシミュレーション・論理合成を確認済み。
+情報理工学実験Bのハードウェア記述言語における、ステートマシン回路をVHDLで実装したもの。動作記述と構造記述の両方で同等の回路を記述している。Quartus Prime / ModelSim でシミュレーション・論理合成を確認済み。
 
 ## 概要
 
@@ -75,19 +75,19 @@ stateDiagram-v2
 
 ## 次状態方程式・出力方程式
 
-カルノー図によって導出した式。`·` は AND、`+` は OR、上付きバーは NOT を表す。
+カルノー図によって導出した式。積 (AND) は変数の並置、和 (OR) は `+`、否定 (NOT) は上付きバーで表す。
 
 ### 次状態
 
-$$D_1 = (\overline{q_1} \cdot q_0) + (q_1 \cdot \overline{q_0}) + (q_1 \cdot q_0 \cdot \overline{x_1}) \tag{1}$$
+$$D_1 = \overline{q_1} q_0 + q_1 \overline{q_0} + q_1 q_0 \overline{x_1}$$
 
-$$D_0 = (\overline{q_1} \cdot \overline{q_0} \cdot x_1 \cdot \overline{x_0}) + (q_1 \cdot \overline{q_0} \cdot \overline{x_1} \cdot x_0) + (q_1 \cdot q_0 \cdot (\overline{x_1} + \overline{x_0})) \tag{2}$$
+$$D_0 = \overline{q_1}\, \overline{q_0}\, x_1 \overline{x_0} + q_1 \overline{q_0}\, \overline{x_1} x_0 + q_1 q_0 (\overline{x_1} + \overline{x_0})$$
 
 ### 出力
 
-$$y_1 = (\overline{q_1} \cdot \overline{q_0} \cdot \overline{x_0}) + (q_1 \cdot \overline{q_0} \cdot \overline{x_1} \cdot x_0) + (q_1 \cdot q_0 \cdot x_1) \tag{3}$$
+$$y_1 = \overline{q_1}\, \overline{q_0}\, \overline{x_0} + q_1 \overline{q_0}\, \overline{x_1} x_0 + q_1 q_0 x_1$$
 
-$$y_0 = (\overline{q_1} \cdot \overline{q_0} \cdot x_0) + (\overline{q_1} \cdot q_0) + (q_1 \cdot q_0 \cdot (\overline{x_1} + \overline{x_0})) \tag{4}$$
+$$y_0 = \overline{q_1}\, \overline{q_0}\, x_0 + \overline{q_1} q_0 + q_1 q_0 (\overline{x_1} + \overline{x_0})$$
 
 ## 使い方 (Quartus Prime / ModelSim)
 
